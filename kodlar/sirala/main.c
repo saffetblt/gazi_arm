@@ -20,12 +20,12 @@ static void sirala(int arr[], int n)
 
 static void doldur(int arr[], int n)
 {
-	yaz_beni;
+    //yaz_beni;
 }
 
 static void yazdir(int arr[], int n)
 {
-	yaz_beni;
+    //yaz_beni;
 }
 
 int main(void)

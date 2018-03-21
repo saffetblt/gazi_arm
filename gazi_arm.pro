@@ -1,3 +1,4 @@
 TEMPLATE = subdirs
 CONFIG += ordered
-SUBDIRS = kodlar
+SUBDIRS = kodlar \
+    Soru_1
